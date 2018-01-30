@@ -50,7 +50,7 @@ maya unity 連携機能３（アニメーション　リグ・キャラクタア
 
 1. まず先の手順で、スキニングがエラーなく終わっていれば、  
 コントロールリグを動かすと、モデルが動いていることがわかります。  
-![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx9.jpg)
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx5.jpg)
 1. 
 1. 
 1. 
