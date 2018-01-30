@@ -14,7 +14,7 @@ maya unity 連携機能３（アニメーション　リグ・キャラクタア
  1. maya上にunityちゃんがきたら、初期設定完了です。
 ---
 
-###ここから本番 [](http://unity-chan.com/images/imageUnityOk02.png)
+###ここから本番 ![](http://unity-chan.com/images/imageUnityOk02.png)
 
  1. 左上メニューバーの「モデリング」を「リギング」に変更（ショートカットが使いやすい）  
 色がついていない！と思った方は、上部メニューのサッカーボールマークをONにすると、色が反映されます。  
