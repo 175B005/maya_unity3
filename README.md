@@ -88,7 +88,9 @@ maya unity 連携機能３（アニメーション　リグ・キャラクタア
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx14.jpg)
 1. メニューを保存して閉じたら、「全て書き出し」を選択
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx15.jpg)
-1. はい、書き出し（場所はどこでもいいです。）
+1. はい、書き出し（場所はどこでもいいです。）  
+ここでもプリセットの編集であこなってもいいですが、さっきの設定が残っているなら、それでおｋです。  
+設定内容はさっきと同じです。
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx16.jpg)
 1. unity側で読み込みます。Asset < ImportNewAsset < さっきの書き出したファイルを選択、  
 （というか、ファイルのドラッグ＆ドロップでimportできるのでそれでも別にいいです。）
