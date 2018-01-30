@@ -50,11 +50,54 @@ maya unity 連携機能３（アニメーション　リグ・キャラクタア
 
 1. まず先の手順で、スキニングがエラーなく終わっていれば、  
 コントロールリグを動かすと、モデルが動いていることがわかります。  
+1. 確認できたら、初期の位置まで戻して、前回ページ同様に、  
+アニメーションのタイマを１フレームに設定。  
+このとき、1フレーム毎にモデルのリグを全選択して、キー値設定をします。  
+これをしないと、編集した内容がパーになります。。。  
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx5.jpg)
-1. 
-1. 
-1. 
-1. 
-1. 
+1. 次に二個目。  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx6.jpg)
+1. 最後！  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx7.jpg)
+1. アニメーションを複数作ることを考えて、今回はレイヤ分けをしておきたいと思います。  
+右メニュー< レイヤエディタ< アニメーション< 今編集していたリグを全選択。< 「レイヤ」< 選択項目から作成  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx9.jpg)
+1. ではこれをリグに焼きこんで、覚えさせます。  
+（このままだと動きを作っただけで、モデルのリグには何の影響も出ません。）  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx8.jpg)
+1. 書き出しをしていきます。（FBX形式）  
+→  手順通りにこのオブジェクトしか作っていない。0000までカット  
+→  この他にもオブジェクトがある。失敗した。不安。な方。このまま。  
+1. まずアウトライナを開き、選択するオブジェクトを確認。  
+上部メニュー< ウィンドウ< アウトライナ  
+(この機能は構造確認しながら選択などできるので便利。)  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx10.jpg)
+1. では必要なものを選択していきます。（リグ、リファレンス、モデル）  
+選択項目の書き出しもあるのですが、いろいろくっつかないものがあるので今回は使いません。私わからない。。  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx11.jpg)
+1. 選択したもの以外を反転で選択。（なければいい）Ctrl + H　で非表示にします。  
+（このアウトライナから、薄くなっているものを選択してShift + Hを押すと表示できます。）
+1. 表示しているものが、編集していたモデルとリグだけになったら再度全選択して、  
+ファイル< すべてを書き出し選択  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx12.jpg)
+1. 書き出しのメニューが出てくるので、規定のものではなく、プリセットの編集から編集していきます。  
+チェックする項目：アニメーション/アニメーションベイク処理/開始終了ステップ、全てをリサンプル/  
+変形したモデル/スキン、ブレンドシェイプ/コンストレイト、スケルトン定義/組み込みメディア  
+にチェックをいれて、プリセットを保存してください。  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx13.jpg)
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx14.jpg)
+1. メニューを保存して閉じたら、「全て書き出し」を選択
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx15.jpg)
+1. はい、書き出し（場所はどこでもいいです。）
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx16.jpg)
+1. unity側で読み込みます。Asset < ImportNewAsset < さっきの書き出したファイルを選択、  
+（というか、ファイルのドラッグ＆ドロップでimportできるのでそれでも別にいいです。）
+1. なんかポーズしてて、inspectorにアニメーションが入っていればおｋ。
+1. 前ページを参考にアニメーションの設定をしたら、後は実行してください。
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx17.jpg)
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx18.jpg)
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx19.jpg)
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx20.jpg)
+
 
  [前ページ](https://github.com/175B005/maya_unity2)| [次ページ](https://github.com/175B005/maya_unity4)|[目次](https://github.com/175B005/maya_unity_index)
