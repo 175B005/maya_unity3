@@ -62,3 +62,21 @@
 - ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx19.jpg)
 - ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionx20.jpg)
 
+---
+
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf1.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf2.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf3.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf4.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf5.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf6.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf7.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf8.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf9.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf10.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf11.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf12.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf13.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf14.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf15.jpg)
+- ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionf16.jpg)
